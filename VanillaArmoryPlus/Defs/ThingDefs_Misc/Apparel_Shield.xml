@@ -22,6 +22,7 @@
       <PersonalShieldEnergyMax>1.1</PersonalShieldEnergyMax>
     </statBases>
     <costList>
+	<Steel>1</Steel>
     </costList>
     <thingCategories>
       <li>Apparel</li>

@@ -38,6 +38,7 @@
 			<RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
 		</statBases>
 		<costlist>
+	<Steel>1</Steel>
 		</costlist>
 		<weaponTags>
 			<li>GrenadeDestructive</li>
@@ -62,9 +63,6 @@
 				<projectileDef>Proj_GrenadeFrag</projectileDef>
 			</li>
 		</verbs>
-		<smeltProducts>
-			<Steel>10</Steel>
-		</smeltProducts>
 	</ThingDef>
 
 	<ThingDef ParentName="BaseGrenadeProjectile">
@@ -102,6 +100,7 @@
       <RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
     </statBases>
 	<costlist>
+	<Steel>1</Steel>
 	</costlist>
     <weaponTags>
       <li>GrenadeDestructive</li>
@@ -163,6 +162,7 @@
       <RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
     </statBases>
 	<costlist>
+	<Steel>1</Steel>
 	</costlist>
     <weaponTags>
       <li>GrenadeEMP</li>
@@ -187,9 +187,6 @@
         <projectileDef>Proj_GrenadeEMP</projectileDef>
       </li>
     </verbs>
-    <smeltProducts>
-      <Steel>10</Steel>
-    </smeltProducts>
   </ThingDef>
 
 	<ThingDef ParentName="BaseGrenadeProjectile">
