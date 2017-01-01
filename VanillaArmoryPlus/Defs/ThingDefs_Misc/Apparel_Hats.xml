@@ -13,7 +13,7 @@
       <graphicClass>Graphic_Single</graphicClass>
     </graphicData>
     <statBases>
-	  <WorkToMake>1</WorkToMake>
+	  <WorkToMake>100</WorkToMake>
       <MaxHitPoints>40</MaxHitPoints>
       <MarketValue>350</MarketValue>
       <Mass>1.0</Mass>
@@ -21,7 +21,7 @@
       <ArmorRating_Sharp>0.05</ArmorRating_Sharp>
     </statBases>
     <costList>
-	<Steel>1</Steel>
+	<Steel>25</Steel>
     </costList>
     <equippedStatOffsets>
       <PsychicSensitivity>-0.90</PsychicSensitivity>

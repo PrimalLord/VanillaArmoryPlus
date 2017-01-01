@@ -32,13 +32,13 @@
 		<soundInteract>InteractGrenade</soundInteract>
 		<techLevel>Industrial</techLevel>
 		<statBases>
-			<WorkToMake>1</WorkToMake>
+			<WorkToMake>250</WorkToMake>
 			<MarketValue>300</MarketValue>
 			<Mass>1</Mass>
 			<RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
 		</statBases>
 		<costlist>
-	<Steel>1</Steel>
+		<Steel>75</Steel>
 		</costlist>
 		<weaponTags>
 			<li>GrenadeDestructive</li>
@@ -94,14 +94,15 @@
     <soundInteract>InteractMolotovCocktail</soundInteract>
     <techLevel>Industrial</techLevel>
     <statBases>
-	<WorkToMake>1</WorkToMake>
+	<WorkToMake>100</WorkToMake>
       <MarketValue>200</MarketValue>
       <Mass>1</Mass>
       <RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
     </statBases>
 	<costlist>
-	<Steel>1</Steel>
-	</costlist>
+	<Beer>75</Beer>
+	<Cloth>75</Cloth>
+		</costlist>
     <weaponTags>
       <li>GrenadeDestructive</li>
     </weaponTags>
@@ -156,13 +157,14 @@
     <soundInteract>InteractGrenade</soundInteract>
     <techLevel>Industrial</techLevel>
     <statBases>
-		<WorkToMake>1</WorkToMake>
+		<WorkToMake>500</WorkToMake>
       <MarketValue>300</MarketValue>
       <Mass>1</Mass>
       <RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
     </statBases>
 	<costlist>
-	<Steel>1</Steel>
+	<Steel>50</Steel>
+	<Uranium>25</Uranium>
 	</costlist>
     <weaponTags>
       <li>GrenadeEMP</li>

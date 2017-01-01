@@ -15,14 +15,15 @@
     </graphicData>
     <tickerType>Normal</tickerType>
 		<statBases>
-		<WorkToMake>1</WorkToMake>
+		<WorkToMake>2500</WorkToMake>
 			<MarketValue>1200</MarketValue>
       <Mass>3</Mass>
       <PersonalShieldRechargeRate>0.13</PersonalShieldRechargeRate>
       <PersonalShieldEnergyMax>1.1</PersonalShieldEnergyMax>
     </statBases>
     <costList>
-	<Steel>1</Steel>
+	<Steel>100</Steel>
+	<Uranium>50</Uranium>
     </costList>
     <thingCategories>
       <li>Apparel</li>
